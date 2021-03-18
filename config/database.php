@@ -1,7 +1,7 @@
 <?php
 
 return [
-
+    'strict' => false,
     /*
     |--------------------------------------------------------------------------
     | Default Database Connection Name
